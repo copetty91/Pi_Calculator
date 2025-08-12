@@ -1,0 +1,17 @@
+{
+  "system_info": {
+    "hostname": "Coltons-MacBook-Air.local",
+    "system": "Darwin",
+    "processor": "arm",
+    "machine": "arm64",
+    "python_version": "3.13.0"
+  },
+  "benchmarks": {
+    "100": 0.0002830028533935547,
+    "500": 0.0014259815216064453,
+    "1000": 0.006229877471923828,
+    "10000": 2.216744899749756,
+    "100000": 1643.1115198135376
+  },
+  "last_updated": "2025-08-11 21:18:47"
+}

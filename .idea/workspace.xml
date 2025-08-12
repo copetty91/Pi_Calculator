@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81a3fe90-edcb-439e-ae79-ceac60e618d6" name="Changes" comment="push initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pi_Calculation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pi_Calculation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +24,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "copetty91"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/copetty91/Pi_Calculator.git",
-    "accountId": "79ad7a2e-f3b9-4e13-89ca-562c889ac01d"
+    "accountId": "913f05a9-01ee-4032-85ee-24a5e272a8c8"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -49,7 +57,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.PI_Chudnovsky Algorithm">
+  <component name="RunManager" selected="Python.Pi_Calculator">
     <configuration name="PI_Chudnovsky Algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pi_Calculation" />
       <option name="ENV_FILES" value="" />
@@ -96,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PI_Chudnovsky Algorithm" />
         <item itemvalue="Python.Pi_Calculator" />
+        <item itemvalue="Python.PI_Chudnovsky Algorithm" />
       </list>
     </recent_temporary>
   </component>
