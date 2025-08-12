@@ -1,0 +1,18 @@
+{
+  "system_info": {
+    "hostname": "DESKTOP-67FCTJG",
+    "system": "Windows",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "machine": "AMD64",
+    "python_version": "3.13.0"
+  },
+  "benchmarks": {
+  "100": 0.00011467933654785156,
+  "500": 0.0005970001220703125,
+  "1000": 0.0025877952575683594,
+  "10000": 1.3882620334625244,
+  "50000": 115.1140546798706,
+  "100000": 776.3049082756042
+},
+  "last_updated": "2025-08-11 20:46:22"
+}
